@@ -148,4 +148,4 @@ Tất cả các bài đều tuân thủ cấu trúc Solution 3-Tier chuẩn:
 1. Clone Repository về máy:
 
 ```bash
-git clone https://github.com/datdct24810320215-cloud/LTNET-BaiTap_66_67_68_-_24810320215_DangCaoThanhDat.git
+git clone https://github.com/luny120/C-.NET-TranTheHao-13_11.git
