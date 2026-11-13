@@ -5,7 +5,7 @@
 * **Họ và tên:** Trần Thế Hào
 * **Mã số sinh viên:** 24810320120
 * **Lớp học phần:** Lập trình .NET – Lớp: D19QTANM1
-* **Link Repository:** https://github.com/datdct24810320215-cloud/LTNET-BaiTap_66_67_68_-_24810320215_DangCaoThanhDat.git
+* **Link Repository:** https://github.com/luny120/C-.NET-TranTheHao-13_11.git
 
 ---
 
